@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/z0mt3c/node-restify-validation/compare/v1.3.1...v1.4.0) (2023-04-14)
+
+
+### Features
+
+* add isValidationEnabled option ([a401956](https://github.com/z0mt3c/node-restify-validation/commit/a401956ec06d8fbe2456dd6b8bc7ce910489b4af))
+
 ### 1.3.1 (2023-03-31)
 
 
