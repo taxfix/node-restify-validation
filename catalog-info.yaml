@@ -3,11 +3,9 @@ kind: Component
 metadata:
   name: node-restify-validation
   description: ""
-  annotations: []
 spec:
   type: library
   lifecycle: production
   domain: tech-foundation
-  system: architecture
+  system: backend-app-framework
   owner: architecture
-relations: []
