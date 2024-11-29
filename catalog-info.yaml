@@ -5,7 +5,7 @@ metadata:
   description: ""
 spec:
   type: library
-  lifecycle: production
+  lifecycle: deprecated
   domain: tech-foundation
   system: backend-app-framework
   owner: architecture
